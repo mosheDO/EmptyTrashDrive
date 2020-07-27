@@ -11,3 +11,6 @@ and wait for a night the google drive will sync and in the mornining u will see 
 
 
 U will need a token for the requst and u can generate that [oauthplayground](https://developers.google.com/oauthplayground/)
+
+
+and run from terminal or cmd (need curl instslled) the file with a loop
